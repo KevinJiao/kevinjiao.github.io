@@ -6,20 +6,21 @@ gems:             [jekyll-paginate]
 permalink:        pretty
 
 # Setup
-title:            Hyde
+title:            Kevin Jiao
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+description:      'Software Engineer, Student@UC Berkeley'
+url:              kevinjiao.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Kevin Jiao'
 
 paginate:         2
 
 # Custom vars
 version:          2.1.0
 
-github:
-  repo:           https://github.com/poole/hyde
+github:           "http://github.com/kevinjiao"
+linkedin:         "http://linkedin.com/in/kjiao"
+bitbucket:        "http://bitbucket.org/kevinjiao"
+email:            "mailto:kevin.jiao@berkeley.edu?Subject=Have%20My%20Babies"
