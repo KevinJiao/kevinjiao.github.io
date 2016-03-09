@@ -139,7 +139,7 @@ a.sidebar-nav-item:focus {
 @media (min-width: 30em) {
   .content {
     margin-left: 18rem; /* Distance between sidebar and content */
-    margin-right: 4rem;
+    margin-right: 2rem;
   }
 }
 
